@@ -19,3 +19,8 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
