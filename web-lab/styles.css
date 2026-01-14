@@ -19,7 +19,3 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
-/* WIP: Experimental colors */
-.slogan {
-  color: #ff4081;  /* Bright pink - we might hate this later */
-}
